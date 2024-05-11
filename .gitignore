@@ -1,0 +1,10 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Generated html, pptx and pdf files
+*.html
+*.pptx
+*.pdf
